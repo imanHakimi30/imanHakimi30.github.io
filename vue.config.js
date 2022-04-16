@@ -1,5 +1,5 @@
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production'
-    ? '/imanHakimi.github.io/'
+    ? '/imanHakimi30.github.io/'
     : '/'
 }
