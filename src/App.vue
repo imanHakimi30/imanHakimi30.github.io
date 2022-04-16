@@ -20,7 +20,7 @@ import HelloWorld from './components/HelloWorld.vue'
           <span>Course: Level 5 Diploma in Web Development</span><br>
           <span>School: School of Information, Communication & Techonology</span><br>
           <span>Group Code: DWDTO6</span><br>
-          <span>Intake 10</span><br>
+          <span>Bahit was here</span><br>
         </div>
       </div>
 
