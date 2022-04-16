@@ -10,7 +10,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
     <div class="bg-[#075985] text-white">
       <div class="p-8">
-        <img src="./assets/imanz.jpeg" class="object-contain h-50 w-80 mx-auto " alt="image">
+        <img src="./assets/imanz-min.jpeg" class="object-contain h-50 w-80 mx-auto " alt="image">
       </div>
 
       <div class="pb-8">
